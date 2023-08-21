@@ -10,6 +10,12 @@ The California Cooperative Oceanic Fisheries Investigations (CalCOFI) program co
 
 The dataset used in this project comprises a collection of historical CalCOFI data, including measurements of water temperature and various environmental variables. The dataset is available in the dataset directory. Please note that due to the nature of oceanographic data, missing values and outliers may be present. Data preprocessing techniques are applied to ensure the quality of the dataset for model training.
 
+
+
+# Fruit Cluster Analysis Data_Analytics_2
+Welcome to the Fruit Cluster Analysis repository! This project focuses on using data analytics techniques to cluster and categorize different fruits based on their attributes. By employing machine learning algorithms, we aim to group similar fruits together and provide insights into their characteristics and relationships.
+
+
 ## Contributing
 
 Contributions to this project are welcome! If you find any issues or have ideas for improvements, feel free to open an issue or submit a pull request.
@@ -17,7 +23,3 @@ Contributions to this project are welcome! If you find any issues or have ideas 
 ## License
 
 This project is licensed under the GNU General Public License v3.0.
-
-
-# Fruit Cluster Analysis Data_Analytics_2
-Welcome to the Fruit Cluster Analysis repository! This project focuses on using data analytics techniques to cluster and categorize different fruits based on their attributes. By employing machine learning algorithms, we aim to group similar fruits together and provide insights into their characteristics and relationships.
